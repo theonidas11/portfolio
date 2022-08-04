@@ -4,7 +4,7 @@ This portfolio is a small project using HTML/CSS and Bootstrap. I will be using 
 
 [Live Heroku Deployment](https://portfolio-darlington.herokuapp.com/)
 
-![Screenshot](!![image](https://user-images.githubusercontent.com/107377018/181362116-c7fa8a5f-6993-4220-9628-869a341d2455.png)
+![image](https://user-images.githubusercontent.com/107377018/181362116-c7fa8a5f-6993-4220-9628-869a341d2455.png)
 
 
 ## Technologies Used
