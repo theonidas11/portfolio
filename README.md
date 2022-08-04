@@ -9,8 +9,8 @@ This portfolio is a small project using HTML/CSS and Bootstrap. I will be using 
 
 ## Technologies Used
 
--HTML
--CSS
+- HTML
+- CSS
 
 ## Installation
 
